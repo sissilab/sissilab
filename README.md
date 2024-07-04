@@ -1,4 +1,37 @@
-## Hi 👋, I'm Xiangru!
+# Hi 👋, I'm Xiangru!
+
+- ❤️ Enjoy Coding · Embrace Tech · Keep Learning · Share Insights · Contribute to Open Source
+- 📫 How to reach me: [xiangru.au@gmail.com](mailto:xiangru.au@gmail.com)
+- 😄 Love Arch Linux 🐧 ! Love Jumping Rope 🏋🏻‍♀️ !
+
+<details>
+  
+<summary><h2>Skills</h2></summary>
+  
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=java,js,ts,python,cpp,bash)
+
+### Backend Technologies
+![Backend](https://skillicons.dev/icons?i=spring,hibernate,kafka,maven)
+
+### Frontend Technologies
+![Frontend](https://skillicons.dev/icons?i=react,html,css,jquery,nodejs,bootstrap)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,elasticsearch,redis,mongodb,postgres)
+
+### DevOps
+![DevOps](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,grafana,aws)
+
+### Agile Tools
+![Agile Tools](https://skillicons.dev/icons?i=bitbucket,git,gitlab)
+
+### Other Tools & Dev Env
+![Other Tools](https://skillicons.dev/icons?i=idea,vscode,eclipse,arch,obsidian,postman)
+
+</details>
+
+
 <!--
 <img align="right" alt="Xiangru's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sissilab" />
 
