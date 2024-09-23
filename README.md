@@ -1,7 +1,7 @@
 # Hi 👋, I'm Xiangru!
 
 - ❤️ Enjoy Coding · Embrace Tech · Keep Learning · Share Insights · Contribute to Open Source
-- 💻 A Full-Stack Software Engineer with expertise in a range of technologies, including Java stack skills, JavaScript/HTML/CSS, Node.js, React, Python, ...
+- 💻 A Full-Stack Software Engineer with expertise in a range of technologies, including Java stack skills, JavaScript/HTML/CSS, TypeScript, Node.js, React, Python, ...
 - 👨🏻‍💻 Database skills: Oracle, MySQL, ELK (Elasticsearch, Logstash, Kibana), Redis, MongoDB
 - ☁️ Enthusiastic about exploring and optimizing the development process with DevOps skills, like Docker, Kubernetes, Helm, Jenkins, Grafana, Coverity Scan, SonarLint
 - 📫 How to reach me: [xiangru.au@gmail.com](mailto:xiangru.au@gmail.com)
